@@ -106,26 +106,43 @@ All stocks, sectors and SP500 have six columns; Open, High, Low, Close, Volume a
 
 Follow these steps to set up on run the project:
 
-1. Clone the Repository
+**1. Clone the Repository**
 - Clone the GitHub repository to your local machine:
 
   git clone https://github.com/yourusername/your-repository.git
   cd your-repository
 
-2. Install Jupyter Notebook
+**2. Install Jupyter Notebook**
 - If you don’t have Jupyter Notebook installed, you can install it using pip:
 
   pip install notebook
 
-3. Install R
+**3. Install R**
 
 - Download and install R from the CRAN website
 
-4. Install Required R Packages and IRkernel
+**4. Install Required R Packages and IRkernel**
 
 - Open R and install the necessary packages including the IRkernel, which allows       Jupyter to run R code:
 
   install.packages(c("IRkernel", "keras3", "tidyverse", "cluster", "dtw",             "dtwclust")) IRkernel::installspec(user = FALSE)
+
+**5. Run Jupyter Notebook**
+
+- Start Jupyter Notebook from the terminal
+
+  "jupyter notebook"
+
+**6. Open and Run Notebooks**
+
+- In Jupyter Notebook, navigate to the .ipynb file in your project directory and       open it.
+- Select the R kernel for the notebook (Kernel > Change kernel > R).
+
+**7. Follow instructions of the Notebook**
+
+- Follow the instructions in the Jupyter Notebook to download and preprocess the       data as needed for the analysis.
+- Adjust any model parameters and hyperparameters as specified in the notebook to      fit your analysis requirements.
+
 
 
 
