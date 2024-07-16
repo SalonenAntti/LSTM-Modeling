@@ -65,7 +65,7 @@ Multiple variables in code are presented as their ticker symbol.
 <br>
 <br>
 All stocks, sectors and SP500 have six columns; Open, High, Low, Close, Volume and Adjusted.
-
+<br>
 **Open**: The price at which the stock first traded upon the opening of the exchange on a given day. Presented in dollar unit.
 
 **High**: The highest price at which the stock traded during the day. Presented in dollar unit.
@@ -78,7 +78,7 @@ All stocks, sectors and SP500 have six columns; Open, High, Low, Close, Volume a
 
 **Adjusted**: The closing price adjusted for dividends, stock splits, and other corporate actions to provide a more accurate reflection of the stock's value over time. Presented in dollar unit.
 
-**GDP** presented in billions of dollars, **Unemployment Rate** as a percentage, **SP500** as a point value.
+**GDP** is presented in billions of dollars, **Unemployment Rate** as a percentage, **SP500** as a point value.
 
 ## Features
 
