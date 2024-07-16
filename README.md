@@ -66,6 +66,7 @@ $GDP GDP
 $UNRATE Unemployment Rate
 
 
+
 All stocks, sectors and SP500 have six columns; Open, High, Low, Close, Volume and Adjusted.
 
 Open: The price at which the stock first traded upon the opening of the exchange on a given day.
