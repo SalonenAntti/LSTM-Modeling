@@ -39,7 +39,7 @@ GDP and Unemployment Data from the Federal Reserve Economic Data (FRED) database
 
 Multiple variables in code are presented as their ticker symbol.
 
-$IBM IBM                                     
+**$IBM** IBM                                     
 
 $AAPL Apple                                    
 
