@@ -39,17 +39,17 @@ GDP and Unemployment Data from the Federal Reserve Economic Data (FRED) database
 
 Multiple variables in code are presented as their ticker symbol.
 
-IBM                                      $IBM
+$IBM IBM                                     
 
-Apple                                    $AAPL
+$AAPL Apple                                    
 
-American Express                         $AXP
+$AXP American Express                         
 
-JPMorgan Chase                           $JPM
+$JPM JPMorgan Chase                           
 
-Exxon Mobil                              $XOM
+$XOM Exxon Mobil                              
 
-Occidental Petroleum                     $OXY
+$OXY Occidental Petroleum   
 
 
 
