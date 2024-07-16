@@ -50,8 +50,7 @@ Multiple variables in code are presented as their ticker symbol.
 **$XOM** Exxon Mobil                              
 
 **$OXY** Occidental Petroleum  
-
-  
+<br>
 **$XLF** Financial Sector Index
 
 **$XLK** Technology Sector Index
