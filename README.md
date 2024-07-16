@@ -93,26 +93,6 @@ All stocks, sectors and SP500 have six columns; Open, High, Low, Close, Volume a
 **GDP** is presented in billions of dollars, **Unemployment Rate** as a percentage, **SP500** as a point value.
 
 
-
-**Preparation**: Installing all needed packages for the project.
-
-**Data Collection and Preprocessing**: Scripts for gathering and cleaning stock, sector, and market index data, ensuring it is ready for analysis.
-
-**Exploratory Data Analysis (EDA)**: Initial analysis to understand data characteristics and to provide statisical understanding of the variables.
-
-**Univariate Time Series Analysis**: Analysis of individual time series to identify trends, seasonality, and other characteristics throughout the review period. Focus on closing prices.
-
-**Bivariate Time Series Analysis**: Examination of relationships between variables. Methods used: Correlations heatmaps and cross-correlation to identify dependencies and lagged relationships. Focus on closing prices.
-
-**Time Series Decomposition**: Breaking down time series data into its component parts (trend, seasonality, residuals) for better understanding the time series. Focus on closing prices.
-
-**Stationary and Autocorrelation Tests**: Statistical tests to determine if the time series is stationary and to measure the correlation of the series with its past values. With stationary and utocorrelation Tests, determination of modeling algorithm was done. Focus on closing prices.
-
-**Feature Engineering**: Creation of new features from raw data. Feature included lagged values, moving averages and combination of these to include statistical features to enhance model performance.
-
-**LSTM Model Training**: Development, training, and tuning of Long Short-Term Memory (LSTM) networks to forecast stock and index prices based on the processed data. Visualized actual vs predicted values are from best models for each variables. Each variable was tested with variety of different model combinations, such as different type and amount of layers, added features and hyperparameter tuning values.
-
-
 ## Setup
 
 Follow these steps to set up on run the project:
