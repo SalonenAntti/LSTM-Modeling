@@ -43,13 +43,15 @@ IBM                                      $IBM
 
 Apple                                    $AAPL
 
-American Express
+American Express                         $AXP
 
-JPMorgan Chase
+JPMorgan Chase                           $JPM
 
-Exxon Mobil
+Exxon Mobil                              $XOM
 
-Occidental Petroleum
+Occidental Petroleum                     $OXY
+
+
 
 
 
