@@ -49,14 +49,14 @@ Multiple variables in code are presented as their ticker symbol.
 
 **$XOM** Exxon Mobil                              
 
-**$OXY** Occidental Petroleum   
+**$OXY** Occidental Petroleum  
 
   
 **$XLF** Financial Sector Index
 
 **$XLK** Technology Sector Index
 
-**$XLE** Energy Sector Index
+**$XLE** Energy Sector Index  
   
 
 **$GSPC** SP500
