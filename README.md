@@ -6,7 +6,19 @@ This project leverages Long Short-Term Memory (LSTM) networks to predict perform
 
 The project covers Data Collection and Preprocessing, Explanatory Data Analysis (EDA), Univariate-, Bivariate-, and Multivariate Time Series Analysis, Time Series Decomposition, Stationary and Autocorrelation Tests, Feature Engineering, and the training of LSTM models to forecast variable prices.
 
+## Table of Contents
 
+1. Project Description
+2. Data Sources
+3. Variables
+4. Features
+5. Setup
+6. Usage
+7. Results
+8. Contributing
+9. License
+
+## Project Description
 
 
 
