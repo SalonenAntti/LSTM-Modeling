@@ -88,12 +88,18 @@ Adjusted: The closing price adjusted for dividends, stock splits, and other corp
 **Exploratory Data Analysis (EDA)**: Initial analysis to understand data characteristics, distributions, and potential patterns.
 
 **Univariate Time Series Analysis**: Analysis of individual time series (e.g., stock prices) to identify trends, seasonality, and other characteristics.
-Bivariate Time Series Analysis: Examination of relationships between two time series (e.g., comparing stock prices of IBM and Apple).
-Multivariate Time Series Analysis: Analysis involving multiple time series to uncover complex interactions among variables (e.g., stocks, sectors, and market indices).
-Time Series Decomposition: Breaking down time series data into its component parts (trend, seasonality, residuals) for better understanding and modeling.
-Stationary and Autocorrelation Tests: Statistical tests to determine if the time series is stationary and to measure the correlation of the series with its past values.
-Feature Engineering: Creation of new features from raw data, such as lagged values, moving averages, and other statistical features to enhance model performance.
-LSTM Model Training: Development, training, and tuning of Long Short-Term Memory (LSTM) networks to forecast stock and index prices based on the processed data.
+
+**Bivariate Time Series Analysis**: Examination of relationships between two time series (e.g., comparing stock prices of IBM and Apple).
+
+**Multivariate Time Series Analysis**: Analysis involving multiple time series to uncover complex interactions among variables (e.g., stocks, sectors, and market indices).
+
+**Time Series Decomposition**: Breaking down time series data into its component parts (trend, seasonality, residuals) for better understanding and modeling.
+
+**Stationary and Autocorrelation Tests**: Statistical tests to determine if the time series is stationary and to measure the correlation of the series with its past values.
+
+**Feature Engineering**: Creation of new features from raw data, such as lagged values, moving averages, and other statistical features to enhance model performance.
+
+**LSTM Model Training**: Development, training, and tuning of Long Short-Term Memory (LSTM) networks to forecast stock and index prices based on the processed data.
 
 
 
