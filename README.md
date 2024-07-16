@@ -39,7 +39,7 @@ GDP and Unemployment Data from the Federal Reserve Economic Data (FRED) database
 
 Multiple variables in code are presented as their ticker symbol.
 
-**$IBM** IBM                                     
+$IBM IBM                                     
 
 $AAPL Apple                                    
 
@@ -69,10 +69,15 @@ $UNRATE Unemployment Rate
 All stocks, sectors and SP500 have six columns; Open, High, Low, Close, Volume and Adjusted.
 
 Open: The price at which the stock first traded upon the opening of the exchange on a given day.
+
 High: The highest price at which the stock traded during the day.
+
 Low: The lowest price at which the stock traded during the day.
+
 Close: The price at which the stock last traded upon the close of the exchange on a given day.
+
 Volume: The total number of shares traded during the day.
+
 Adjusted: The closing price adjusted for dividends, stock splits, and other corporate actions to provide a more accurate reflection of the stock's value over time.
 
 
