@@ -102,6 +102,47 @@ All stocks, sectors and SP500 have six columns; Open, High, Low, Close, Volume a
 **LSTM Model Training**: Development, training, and tuning of Long Short-Term Memory (LSTM) networks to forecast stock and index prices based on the processed data.
 
 
+## Setup
+
+Follow these steps to set up on run the project:
+
+1. Clone the Repository
+- Clone the GitHub repository to your local machine:
+
+  git clone https://github.com/yourusername/your-repository.git
+  cd your-repository
+
+2. Install Jupyter Notebook
+- If you don’t have Jupyter Notebook installed, you can install it using pip:
+
+pip install notebook
+
+3. Install R
+
+- Download and install R from the CRAN website
+
+4. Install Required R Packages and IRkernel
+
+- Open R and install the necessary packages including the IRkernel, which allows       Jupyter to run R code:
+
+  install.packages(c("IRkernel", "keras3", "tidyverse", "cluster", "dtw",             "dtwclust")) IRkernel::installspec(user = FALSE)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
