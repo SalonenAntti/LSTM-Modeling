@@ -35,6 +35,33 @@ Financial Sector Index, Technology Sector Index, and Energy Sector Index Data  f
 ### Market Indices
 GDP and Unemployment Data from the Federal Reserve Economic Data (FRED) database. SP500 from Yahoo Finance.
 
+## Variables
+
+Multiple variables in code are presented as their ticker symbol.
+
+IBM                                      $IBM
+
+Apple                                    $AAPL
+
+American Express
+
+JPMorgan Chase
+
+Exxon Mobil
+
+Occidental Petroleum
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
