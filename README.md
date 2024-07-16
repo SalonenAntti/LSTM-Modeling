@@ -52,7 +52,6 @@ Multiple variables in code are presented as their ticker symbol.
 **$OXY** Occidental Petroleum  
 <br>
 <br>
-<br>
 **$XLF** Financial Sector Index
 
 **$XLK** Technology Sector Index
@@ -60,13 +59,11 @@ Multiple variables in code are presented as their ticker symbol.
 **$XLE** Energy Sector Index  
 <br>
 <br>
-<br>
 **$GSPC** SP500
 
 **$GDP** GDP
 
 **$UNRATE** Unemployment Rate
-<br>
 <br>
 <br>
 All stocks, sectors and SP500 have six columns; Open, High, Low, Close, Volume and Adjusted.
