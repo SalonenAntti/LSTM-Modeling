@@ -115,7 +115,7 @@ Follow these steps to set up on run the project:
 2. Install Jupyter Notebook
 - If you don’t have Jupyter Notebook installed, you can install it using pip:
 
-pip install notebook
+  pip install notebook
 
 3. Install R
 
