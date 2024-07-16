@@ -57,6 +57,7 @@ Multiple variables in code are presented as their ticker symbol.
 
 **$XLE** Energy Sector Index  
 <br>
+<br>
 **$GSPC** SP500
 
 **$GDP** GDP
@@ -79,7 +80,7 @@ All stocks, sectors and SP500 have six columns; Open, High, Low, Close, Volume a
 **Adjusted**: The closing price adjusted for dividends, stock splits, and other corporate actions to provide a more accurate reflection of the stock's value over time. Presented in dollar unit.
 <br>
 <br>
-**GDP** presented in billions of dollars and **Unemployment Rate** as a percentage.
+**GDP** presented in billions of dollars, **Unemployment Rate** as a percentage, **SP500** as a point value.
 
 ## Features
 
