@@ -4,21 +4,31 @@
 
 This project leverages Long Short-Term Memory (LSTM) networks to predict performance of various stocks, sector indices and market indices. The analysis uses stock prices for IBM, Apple, American Express, JPMorgan Chase, Exxon Mobil and Occidental Petroleum. Sector Indices include Financial Sector Index, Technology Sector Index and Energy Sector Index. Market indices include GDP, SP500 and Unemployment Data. 
 
-The project covers Data Collection and Preprocessing, Explanatory Data Analysis (EDA), Univariate-, Bivariate-, and Multivariate Time Series Analysis, Time Series Decomposition, Stationary and Autocorrelation Tests, Feature Engineering, and the training of LSTM models to forecast variable prices.
+The project covers Data Collection and Preprocessing, Explanatory Data Analysis (EDA), Univariate-, Bivariate Time Series Analysis, Time Series Decomposition, Stationary and Autocorrelation Tests, Feature Engineering, training of LSTM models to forecast variable prices and evaluation of these models.
 
-The whole project is documented in this repository as **"LSTM.ipynb"**
+The project as a whole is documented in this repository as **"LSTM.ipynb"** where you can find all project areas mentioned above.
 
-## Table of Contents
+## Table of Contents for the project
 
-1. Project Description
-2. Data Sources
-3. Variables
-4. Features
-5. Setup
-6. Usage
-7. Results
-8. Contributing
-9. License
+**Preparation**: Installing all needed packages for the project.
+
+**Data Collection and Preprocessing**: Scripts for gathering and cleaning stock, sector, and market index data, ensuring it is ready for analysis.
+
+**Exploratory Data Analysis (EDA)**: Initial analysis to understand data characteristics and to provide statisical understanding of the variables.
+
+**Univariate Time Series Analysis**: Analysis of individual time series to identify trends, seasonality, and other characteristics throughout the review period. Focus on closing prices.
+
+**Bivariate Time Series Analysis**: Examination of relationships between variables. Methods used: Correlations heatmaps and cross-correlation to identify dependencies and lagged relationships. Focus on closing prices.
+
+**Time Series Decomposition**: Breaking down time series data into its component parts (trend, seasonality, residuals) for better understanding the time series. Focus on closing prices.
+
+**Stationary and Autocorrelation Tests**: Statistical tests to determine if the time series is stationary and to measure the correlation of the series with its past values. With stationary and utocorrelation Tests, determination of modeling algorithm was done. Focus on closing prices.
+
+**Feature Engineering**: Creation of new features from raw data. Feature included lagged values, moving averages and combination of these to include statistical features to enhance model performance.
+
+**LSTM Model Training**: Development, training, and tuning of Long Short-Term Memory (LSTM) networks to forecast stock and index prices based on the processed data. Visualized actual vs predicted values are from best models for each variables. Each variable was tested with variety of different model combinations, such as different type and amount of layers, added features and hyperparameter tuning values.
+
+**Results**: Evaluation of LSTM model performances.
 
 ## Project Description
 
@@ -82,7 +92,7 @@ All stocks, sectors and SP500 have six columns; Open, High, Low, Close, Volume a
 
 **GDP** is presented in billions of dollars, **Unemployment Rate** as a percentage, **SP500** as a point value.
 
-## Features
+
 
 **Preparation**: Installing all needed packages for the project.
 
