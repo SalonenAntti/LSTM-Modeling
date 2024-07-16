@@ -84,7 +84,9 @@ Adjusted: The closing price adjusted for dividends, stock splits, and other corp
 ## Features
 
 **Data Collection and Preprocessing**: Scripts for gathering and cleaning stock, sector, and market index data, ensuring it is ready for analysis.
+
 **Exploratory Data Analysis (EDA)**: Initial analysis to understand data characteristics, distributions, and potential patterns.
+
 **Univariate Time Series Analysis**: Analysis of individual time series (e.g., stock prices) to identify trends, seasonality, and other characteristics.
 Bivariate Time Series Analysis: Examination of relationships between two time series (e.g., comparing stock prices of IBM and Apple).
 Multivariate Time Series Analysis: Analysis involving multiple time series to uncover complex interactions among variables (e.g., stocks, sectors, and market indices).
