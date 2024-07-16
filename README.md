@@ -63,7 +63,6 @@ Multiple variables in code are presented as their ticker symbol.
 
 **$UNRATE** Unemployment Rate  
 <br>
-<br>
 All stocks, sectors and SP500 have six columns; Open, High, Low, Close, Volume and Adjusted.
 <br>
 <br>
