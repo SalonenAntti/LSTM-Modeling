@@ -39,46 +39,46 @@ GDP and Unemployment Data from the Federal Reserve Economic Data (FRED) database
 
 Multiple variables in code are presented as their ticker symbol.
 
-$IBM IBM                                     
+**$IBM** IBM                                     
 
-$AAPL Apple                                    
+**$AAPL** Apple                                    
 
-$AXP American Express                         
+**$AXP** American Express                         
 
-$JPM JPMorgan Chase                           
+**$JPM** JPMorgan Chase                           
 
-$XOM Exxon Mobil                              
+**$XOM** Exxon Mobil                              
 
-$OXY Occidental Petroleum   
-
-
-$XLF Financial Sector Index
-
-$XLK Technology Sector Index
-
-$XLE Energy Sector Index
+**$OXY** Occidental Petroleum   
 
 
-$GSPC SP500
+**$XLF** Financial Sector Index
 
-$GDP GDP
+**$XLK** Technology Sector Index
 
-$UNRATE Unemployment Rate
+**$XLE** Energy Sector Index
+
+
+**$GSPC** SP500
+
+**$GDP** GDP
+
+**$UNRATE** Unemployment Rate
 
 
 All stocks, sectors and SP500 have six columns; Open, High, Low, Close, Volume and Adjusted.
 
-Open: The price at which the stock first traded upon the opening of the exchange on a given day.
+**Open**: The price at which the stock first traded upon the opening of the exchange on a given day.
 
-High: The highest price at which the stock traded during the day.
+**High**: The highest price at which the stock traded during the day.
 
-Low: The lowest price at which the stock traded during the day.
+**Low**: The lowest price at which the stock traded during the day.
 
-Close: The price at which the stock last traded upon the close of the exchange on a given day.
+**Close**: The price at which the stock last traded upon the close of the exchange on a given day.
 
-Volume: The total number of shares traded during the day.
+**Volume**: The total number of shares traded during the day.
 
-Adjusted: The closing price adjusted for dividends, stock splits, and other corporate actions to provide a more accurate reflection of the stock's value over time.
+**Adjusted**: The closing price adjusted for dividends, stock splits, and other corporate actions to provide a more accurate reflection of the stock's value over time.
 
 
 ## Features
