@@ -1,4 +1,4 @@
-# Predicting stock performance with Long Short-Term Memory (LSTM)
+# Predicting stock performance with Long Short-Term Memory (LSTM) with R
 
 ## Overview
 
