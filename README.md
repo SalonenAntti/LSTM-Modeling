@@ -68,7 +68,7 @@ Multiple variables in code are presented as their ticker symbol.
 
 All stocks, sectors and SP500 have six columns; Open, High, Low, Close, Volume and Adjusted.
 
-**Open**: The price at which the stock first traded upon the opening of the exchange on a given day.
+**Open**: The price at which the stock first traded upon the opening of the exchange on a given day. Unit is a dollar, unless the value is normalized.
 
 **High**: The highest price at which the stock traded during the day.
 
@@ -79,6 +79,7 @@ All stocks, sectors and SP500 have six columns; Open, High, Low, Close, Volume a
 **Volume**: The total number of shares traded during the day.
 
 **Adjusted**: The closing price adjusted for dividends, stock splits, and other corporate actions to provide a more accurate reflection of the stock's value over time.
+
 
 
 ## Features
