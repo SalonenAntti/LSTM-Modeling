@@ -1,2 +1,11 @@
-# LSTM-Modeling
-Predicting stock performance with LSTM
+# Predicting stock performance with Long Short-Term Memory (LSTM)
+
+## Overview
+
+
+
+
+
+
+
+
