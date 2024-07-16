@@ -149,7 +149,7 @@ Follow these steps to set up on run the project:
 
 By following instructions of the notebook and running the codes, the notebook performs all tasks mentioned above, including EDA, Training the LSTM model using the provided scripts and Evaluating and analyzing the model's performance for example.
 
-However there are some changable parts in the code to provide different outcome for visualization. These are mentioned in that specific code. Feel free to change and try them out.
+However there are a few changable parts in the code to provide different output for visualization. These are mentioned in that specific code. Feel free to change and try them out.
 
 # Results
 
