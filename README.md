@@ -51,13 +51,13 @@ Multiple variables in code are presented as their ticker symbol.
 
 **$OXY** Occidental Petroleum   
 
-
+  
 **$XLF** Financial Sector Index
 
 **$XLK** Technology Sector Index
 
 **$XLE** Energy Sector Index
-
+  
 
 **$GSPC** SP500
 
@@ -65,7 +65,7 @@ Multiple variables in code are presented as their ticker symbol.
 
 **$UNRATE** Unemployment Rate
 
-
+  
 All stocks, sectors and SP500 have six columns; Open, High, Low, Close, Volume and Adjusted.
 
 **Open**: The price at which the stock first traded upon the opening of the exchange on a given day. Presented in dollar unit.
@@ -79,6 +79,7 @@ All stocks, sectors and SP500 have six columns; Open, High, Low, Close, Volume a
 **Volume**: The total number of shares traded during the day. Presented in dollar unit.
 
 **Adjusted**: The closing price adjusted for dividends, stock splits, and other corporate actions to provide a more accurate reflection of the stock's value over time. Presented in dollar unit.
+  
 
 **GDP** presented in billions of dollars and **Unemployment Rate** as a percentage.
 
