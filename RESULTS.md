@@ -16,7 +16,7 @@
 
 <img src="images/Tech.png" alt="Technology Sector Index Price Actuals vs Predictions" width="600" />
 
-<img src="images/Ene.png" alt="Energy Sector Index Price Actuals vs Predictions" width="600" />
+<img src="images/Energy.png" alt="Energy Sector Index Price Actuals vs Predictions" width="600" />
 
 <img src="images/GDP.png" alt="GDP Actuals vs Predictions" width="600" />
 
