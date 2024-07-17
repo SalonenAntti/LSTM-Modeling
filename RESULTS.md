@@ -1,6 +1,6 @@
 # Results
 
-![IBM Actual vs Predicted](images/Ibm.png)
+![IBM Actual vs Predicted](images/IBM.png)
 ![Apple Actual vs Predicted](images/Apple_actual_vs_predicted.png)
 ![Amex Actual vs Predicted](images/Amex_actual_vs_predicted.png)
 ![JPM Actual vs Predicted](images/JPM_actual_vs_predicted.png)
