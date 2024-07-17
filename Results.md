@@ -1,7 +1,5 @@
 # Results
 
-## IBM Stock Price Predictions
-![IBM Actual vs Predicted](IBM.png)
 
 ## Apple Stock Price Predictions
 ![Apple Actual vs Predicted](results/Apple.png)
