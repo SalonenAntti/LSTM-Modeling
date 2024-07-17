@@ -7,32 +7,32 @@
 ![Apple Actual vs Predicted](Apple.png)
 
 ## American Express Stock Price Predictions
-![Amex Actual vs Predicted](results/Amex_actual_vs_predicted.png)
+![Amex Actual vs Predicted](Amex.png)
 
 ## JPMorgan Chase Stock Price Predictions
-![JPM Actual vs Predicted](results/JPM_actual_vs_predicted.png)
+![JPM Actual vs Predicted](JPM.png)
 
 ## Exxon Mobil Stock Price Predictions
-![Exxon Actual vs Predicted](results/Exxon_actual_vs_predicted.png)
+![Exxon Actual vs Predicted](Exxon.png)
 
 ## Occidental Petroleum Stock Price Predictions
-![Occidental Actual vs Predicted](results/Occidental_actual_vs_predicted.png)
+![Occidental Actual vs Predicted](Occidental.png)
 
 ## Financial Sector Index Predictions
-![Fin Actual vs Predicted](results/Fin_actual_vs_predicted.png)
+![Fin Actual vs Predicted](Fin.png)
 
 ## Technology Sector Index Predictions
-![Tech Actual vs Predicted](results/Tech_actual_vs_predicted.png)
+![Tech Actual vs Predicted](Tech.png)
 
 ## Energy Sector Index Predictions
-![Ene Actual vs Predicted](results/Ene_actual_vs_predicted.png)
+![Ene Actual vs Predicted](Ene.png)
 
 ## GDP Predictions
-![GDP Actual vs Predicted](results/GDP_actual_vs_predicted.png)
+![GDP Actual vs Predicted](GDP.png)
 
 ## SP500 Predictions
-![SP500 Actual vs Predicted](results/SP500_actual_vs_predicted.png)
+![SP500 Actual vs Predicted](SP500.png)
 
 ## Unemployment Rate Predictions
-![Unrate Actual vs Predicted](results/Unrate_actual_vs_predicted.png)
+![Unrate Actual vs Predicted](Unrate.png)
 
