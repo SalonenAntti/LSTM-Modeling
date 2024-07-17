@@ -1,4 +1,8 @@
 # Results
+
+Here is a summary of results in terms of visualizations and metrics used to evaluate the models.
+Overall, the low loss and MAE values indicate that the LSTM model is performing well in predicting stock prices. These metrics demonstrate that the model has effectively learned from the training data and is capable of making accurate predictions on unseen data. Model's predictions are extremely close to the actual values, see visualizations below.
+
 ## IBM
 <img src="images/IBM.png" alt="IBM Stock Price Actuals vs Predictions" width="600" height="425" />
 
