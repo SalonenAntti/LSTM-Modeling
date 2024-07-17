@@ -2,6 +2,7 @@
 ## IBM
 <img src="images/IBM.png" alt="IBM Stock Price Actuals vs Predictions" width="600" height="425" />
 <br>
+
 ## Apple
 <img src="images/Apple.png" alt="Apple Stock Price Actuals vs Predictions" width="600" height="425" />
 
