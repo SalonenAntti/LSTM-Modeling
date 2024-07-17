@@ -1,6 +1,7 @@
 # Results
 
 ![IBM Actual vs Predicted](images/IBM.png)
+<img src="images/IBM.png" alt="IBM Stock Price Predictions" width="600" />
 ![Apple Actual vs Predicted](images/Apple.png)
 ![Amex Actual vs Predicted](images/Amex.png)
 ![JPM Actual vs Predicted](images/JPM.png)
