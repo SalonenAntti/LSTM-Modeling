@@ -6,7 +6,7 @@ This project leverages Long Short-Term Memory (LSTM) networks to predict perform
 
 The project covers Data Collection and Preprocessing, Explanatory Data Analysis (EDA), Univariate-, Bivariate Time Series Analysis, Time Series Decomposition, Stationary and Autocorrelation Tests, Feature Engineering, training of LSTM models to forecast variable prices and evaluation of these models.
 
-The project as a whole is documented in this repository as **"LSTM.ipynb"** where you can find all project areas mentioned above.
+The project as a whole is documented in this repository as **"LSTM.ipynb"** where you can find all project areas mentioned above. Result file concludes results of the model, actuals vs predicted values, and their evaluations.
 
 ## Table of Contents for the project
 
