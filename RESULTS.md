@@ -3,6 +3,7 @@
 <img src="images/IBM.png" alt="IBM Stock Price Predictions" width="600" />
 
 <img src="images/Apple.png" alt="Apple Stock Price Predictions" width="600" />
+
 ![Amex Actual vs Predicted](images/Amex.png)
 
 ![JPM Actual vs Predicted](images/JPM.png)
