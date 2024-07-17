@@ -1,38 +1,16 @@
 # Results
 
-## IBM Stock Price Predictions
-![IBM Actual vs Predicted](IBM.png)
+![IBM Actual vs Predicted](images/Ibm.png)
+![Apple Actual vs Predicted](images/Apple_actual_vs_predicted.png)
+![Amex Actual vs Predicted](images/Amex_actual_vs_predicted.png)
+![JPM Actual vs Predicted](images/JPM_actual_vs_predicted.png)
+![Exxon Actual vs Predicted](images/Exxon_actual_vs_predicted.png)
+![Occidental Actual vs Predicted](images/Occidental_actual_vs_predicted.png)
+![Fin Actual vs Predicted](images/Fin_actual_vs_predicted.png)
+![Tech Actual vs Predicted](images/Tech_actual_vs_predicted.png)
+![Ene Actual vs Predicted](images/Ene_actual_vs_predicted.png)
+![GDP Actual vs Predicted](images/GDP_actual_vs_predicted.png)
+![SP500 Actual vs Predicted](images/SP500_actual_vs_predicted.png)
+![Unrate Actual vs Predicted](images/Unrate_actual_vs_predicted.png)
 
-## Apple Stock Price Predictions
-![Apple Actual vs Predicted](Apple.png)
-
-## American Express Stock Price Predictions
-![Amex Actual vs Predicted](Amex.png)
-
-## JPMorgan Chase Stock Price Predictions
-![JPM Actual vs Predicted](JPM.png)
-
-## Exxon Mobil Stock Price Predictions
-![Exxon Actual vs Predicted](Exxon.png)
-
-## Occidental Petroleum Stock Price Predictions
-![Occidental Actual vs Predicted](Occidental.png)
-
-## Financial Sector Index Predictions
-![Fin Actual vs Predicted](Fin.png)
-
-## Technology Sector Index Predictions
-![Tech Actual vs Predicted](Tech.png)
-
-## Energy Sector Index Predictions
-![Ene Actual vs Predicted](Ene.png)
-
-## GDP Predictions
-![GDP Actual vs Predicted](GDP.png)
-
-## SP500 Predictions
-![SP500 Actual vs Predicted](SP500.png)
-
-## Unemployment Rate Predictions
-![Unrate Actual vs Predicted](Unrate.png)
 
