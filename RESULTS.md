@@ -2,6 +2,8 @@
 ## IBM
 <img src="images/IBM.png" alt="IBM Stock Price Actuals vs Predictions" width="600" height="425" />
 sssss
+**Loss**: 5.087766e-05
+**Mean Absolute Error (MAE)**: 0.005555241
 
 <br>
 <br>
