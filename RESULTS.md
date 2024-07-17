@@ -1,27 +1,25 @@
 # Results
 
-<img src="images/IBM.png" alt="IBM Stock Price Predictions" width="600" />
+<img src="images/IBM.png" alt="IBM Stock Price Actuals vs Predictions" width="600" />
 
-<img src="images/Apple.png" alt="Apple Stock Price Predictions" width="600" />
+<img src="images/Apple.png" alt="Apple Stock Price Actuals vs Predictions" width="600" />
 
-![Amex Actual vs Predicted](images/Amex.png)
+<img src="images/Amex.png" alt="Amex Stock Price Actuals vs Predictions" width="600" />
 
-![JPM Actual vs Predicted](images/JPM.png)
+<img src="images/JPM.png" alt="JPMorgan Chase Stock Price Actuals vs Predictions" width="600" />
 
-![Exxon Actual vs Predicted](images/Exxon.png)
+<img src="images/Exxon.png" alt="Exxon Mobil Stock Price Actuals vs Predictions" width="600" />
 
-![Occidental Actual vs Predicted](images/Occidental.png)
+<img src="images/Occidental.png" alt="Occidental Petroleum Stock Price Actuals vs Predictions" width="600" />
 
-![Fin Actual vs Predicted](images/Fin.png)
+<img src="images/Fin.png" alt="Financial Sector Index Stock Price Actuals vs Predictions" width="600" />
 
-![Tech Actual vs Predicted](images/Tech.png)
+<img src="images/Tech.png" alt="Technology Sector Index Price Actuals vs Predictions" width="600" />
 
-![Ene Actual vs Predicted](images/Ene.png)
+<img src="images/Ene.png" alt="Energy Sector Index Price Actuals vs Predictions" width="600" />
 
-![GDP Actual vs Predicted](images/GDP.png)
+<img src="images/GDP.png" alt="GDP Actuals vs Predictions" width="600" />
 
-![SP500 Actual vs Predicted](images/SP500.png)
+<img src="images/Unrate.png" alt="Unemployment Rate Actuals vs Predictions" width="600" />
 
-![Unrate Actual vs Predicted](images/Unrate.png)
-
-
+<img src="images/SP500.png" alt="SP500 Index Actuals vs Predictions" width="600" />
