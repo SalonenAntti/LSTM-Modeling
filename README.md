@@ -26,7 +26,7 @@ The project as a whole is documented in this repository as **"LSTM.ipynb"** wher
 
 **Feature Engineering**: Creation of new features from raw data. Feature included lagged values, moving averages and combination of these to include statistical features to enhance model performance.
 
-**LSTM Model Training**: Development, training, and tuning of Long Short-Term Memory (LSTM) networks to forecast stock and index prices based on the processed data. Visualized actual vs predicted values are from best models for each variables. Each variable was tested with variety of different model combinations, such as different type and amount of layers, added features and hyperparameter tuning values.
+**LSTM Model Training & Validation**: Development, training, and tuning of Long Short-Term Memory (LSTM) networks to forecast stock and index prices based on the processed data. Visualized actual vs predicted values are from best models for each variables. Each variable was tested with variety of different model combinations, such as different type and amount of layers, added features and hyperparameter tuning values.
 
 **Results**: Evaluation of LSTM model performances.
 
