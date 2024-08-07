@@ -4,7 +4,7 @@
 
 This project leverages Long Short-Term Memory (LSTM) networks to predict performance of various stocks, sector indices and market indices. The analysis uses stock prices for IBM, Apple, American Express, JPMorgan Chase, Exxon Mobil and Occidental Petroleum. Sector Indices include Financial Sector Index, Technology Sector Index and Energy Sector Index. Market indices include GDP, SP500 and Unemployment Data. 
 
-The project covers Data Collection and Preprocessing, Explanatory Data Analysis (EDA), Univariate-, Bivariate Time Series Analysis, Time Series Decomposition, Stationary and Autocorrelation Tests, Feature Engineering, training of LSTM models to forecast variable prices and evaluation of these models.
+The project covers Data Collection and Preprocessing, Explanatory Data Analysis (EDA), Univariate-, Bivariate Time Series Analysis, Time Series Decomposition, Stationary and Autocorrelation Tests, Feature Engineering, training of LSTM models to forecast variable prices and evaluation of these models and model validation.
 
 The project as a whole is documented in this repository as **"LSTM.ipynb"** where you can find all project areas mentioned above. Result file concludes results of the model, actuals vs predicted values, and their evaluations.
 
@@ -26,7 +26,7 @@ The project as a whole is documented in this repository as **"LSTM.ipynb"** wher
 
 **Feature Engineering**: Creation of new features from raw data. Feature included lagged values, moving averages and combination of these to include statistical features to enhance model performance.
 
-**LSTM Model Training & Validation**: Development, training, and tuning of Long Short-Term Memory (LSTM) networks to forecast stock and index prices based on the processed data. Visualized actual vs predicted values are from best models for each variables. Each variable was tested with variety of different model combinations, such as different type and amount of layers, added features and hyperparameter tuning values.
+**LSTM Model Training & Validation**: This involves the development, training, and tuning of Long Short-Term Memory (LSTM) networks to forecast stock and index prices based on the processed data. The actual vs. predicted values from the best models for each variable are visualized. Each variable was tested with a variety of different model combinations, including different types and amounts of layers and added features. Validation methods included Train-Test Split Validation and Hyperparameter Tuning.
 
 **Results**: Evaluation of LSTM model performances.
 
