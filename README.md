@@ -14,7 +14,7 @@ The project as a whole is documented in this repository as **"LSTM.ipynb"** wher
 
 **Data Collection and Preprocessing**: Scripts for gathering and cleaning stock, sector, and market index data, ensuring it is ready for analysis.
 
-**Exploratory Data Analysis (EDA)**: Initial analysis to understand data characteristics and to provide statisical understanding of the variables.
+**Exploratory Data Analysis (EDA)**: Initial analysis to understand data characteristics and to provide statistical understanding of the variables.
 
 **Univariate Time Series Analysis**: Analysis of individual time series to identify trends, seasonality, and other characteristics throughout the review period. Focus on closing prices.
 
@@ -22,7 +22,7 @@ The project as a whole is documented in this repository as **"LSTM.ipynb"** wher
 
 **Time Series Decomposition**: Breaking down time series data into its component parts (trend, seasonality, residuals) for better understanding the time series. Focus on closing prices.
 
-**Stationary and Autocorrelation Tests**: Statistical tests to determine if the time series is stationary and to measure the correlation of the series with its past values. With stationary and utocorrelation Tests, determination of modeling algorithm was done. Focus on closing prices.
+**Stationary and Autocorrelation Tests**: Statistical tests to determine if the time series is stationary and to measure the correlation of the series with its past values. With stationary and correlation tests, determination of modeling algorithm was done. Focus on closing prices.
 
 **Feature Engineering**: Creation of new features from raw data. Feature included lagged values, moving averages and combination of these to include statistical features to enhance model performance.
 
